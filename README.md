@@ -1,7 +1,3 @@
-Here’s your optimized **README.md** in the same structured format:  
-
----
-
 # **Payroll System 🏢**  
 A simple Java-based payroll management system that allows adding, removing, and displaying employees with dynamic salary calculations.  
 
